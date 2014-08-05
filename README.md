@@ -11,3 +11,5 @@ Linux volume changer (more then 100%)
 максимальный уровень громкости - $max_volume%"
 
 Для удобства можно добавить вызов скрипта в комбинации горячих клавиш
+
+http://another-it-blogs.blogspot.com/2014/06/linux-100.html
